@@ -1,0 +1,316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"td\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Git",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/felix/github/adobe_source_libraries"
+	],
+	"file_history":
+	[
+		"/Users/felix/github/stlab_docker/gcc5_boost_1.66.0/Dockerfile",
+		"/Users/felix/github/stlab_docker/README.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/join.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/merge_channel.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/zip.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/zip_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/merge.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/zip_with.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/merge_channel_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/zip_with_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/index.md",
+		"/Users/felix/github/stlab.github.io/_site/libraries/concurrency/task/task.html",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/timed_process_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/close_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/test/annotate/annotate_rvo_example.cpp",
+		"/Users/felix/github/stlab.github.io/_data/releases.json",
+		"/Users/felix/github/stlab.github.io/about.sh",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/detach_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/test/annotate/annotate.md",
+		"/Users/felix/github/stlab.github.io/libraries/test/annotate/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/task/task.md",
+		"/Users/felix/github/stlab.github.io/_layouts/free-function.html",
+		"/Users/felix/github/stlab.github.io/CMakeLists.txt",
+		"/Users/felix/github/stlab.github.io/libraries/scope_example_return.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/then_continuation_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/task/task/operator=.md",
+		"/Users/felix/github/stlab.github.io/tips/small-object-optimizations.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/task/task/task.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/task/task/index.md",
+		"/Users/felix/github/stlab.github.io/legacy/runtime-concepts.md",
+		"/Users/felix/github/stlab.github.io/legacy/performance-whattotest.md",
+		"/Users/felix/github/stlab.github.io/legacy/papers-and-presentations.md",
+		"/Users/felix/github/stlab.github.io/legacy/how-to-write-a-simple-lexical-analyzer-or-parser.md",
+		"/Users/felix/github/stlab.github.io/legacy/edge-interface-for-forest-iterators.md",
+		"/Users/felix/github/stlab.github.io/legacy/about-boost-patches.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/then.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/then_reduction_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/test.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/operator_co_await.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/blocking_get.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/operator_co_await_example.cpp",
+		"/Users/felix/github/stlab.github.io/_site/legacy/about-boost-patches.html",
+		"/Users/felix/github/stlab.github.io/_site/legacy/edge-interface-for-forest-iterators.html",
+		"/Users/felix/github/stlab.github.io/_site/legacy/how-to-write-a-simple-lexical-analyzer-or-parser.html",
+		"/Users/felix/github/stlab.github.io/_site/legacy/papers-and-presentations.html",
+		"/Users/felix/github/stlab.github.io/_site/legacy/performance-whattotest.html",
+		"/Users/felix/github/stlab.github.io/legacy/index.md",
+		"/Users/felix/github/stlab.github.io/_site/legacy/runtime-concepts.html",
+		"/Users/felix/github/stlab.github.io/_posts/2017-11-28-stlab-concurrency-release-1.1.md",
+		"/Users/felix/github/stlab.github.io/stlab.bbprojectd/Unix Worksheet.worksheet",
+		"/Users/felix/github/stlab.github.io/_posts/2018-06-15-stlab-concurrency-release-1.2.0.md",
+		"/Users/felix/github/stlab.github.io/build/stlab/CMakeLists.txt",
+		"/Volumes/Media/Sicherungen/Sonstiges/Text.ky",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/process_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/when_any.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/buffer_size/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/buffer_size/buffer_size_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/operator_pipe_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/executor/executor.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/executor/index.md",
+		"/Users/felix/github/stlab.github.io/build.sh",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/executor/executor_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/async.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/make_exceptional_future.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/make_ready_future.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/package.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/when_all.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/default_executor/operator().md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/immediate_executor/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/immediate_executor/operator().md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/main_executor/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/main_executor/operator().md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/detach.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/error.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/get_try.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/recover.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/reset.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/await.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/index.md",
+		"/Users/felix/github/stlab.github.io/_includes/example_table.html",
+		"/Users/felix/github/stlab.github.io/_posts/2017-06-12-stlab-concurrency-release-1.0.markdown",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/default_executor/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/default_executor/default_executor.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/executor/default_executor/-default_executor.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/channel.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/sender/operator().md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/sender/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/sender/close.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/set_ready.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/operator_pipe.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/ready.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/receiver/buffer_size/buffer_size.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/close.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/when_any_example.cpp",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/future/valid.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/yield.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/state.md",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/channel/process/set_error.md",
+		"/Users/felix/github/stlab.github.io/_layouts/class.html",
+		"/Users/felix/github/stlab.github.io/_includes/associated_methods.html",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency/future/index.md",
+		"/Users/felix/github/stlab.github.io/_sass/_base.scss",
+		"/Users/felix/github/stlab.github.io/_posts/2017-05-11-concurrency.markdown",
+		"/Users/felix/github/stlab.github.io/libraries/concurrency.md",
+		"/Users/felix/github/stlab.github.io/libraries/index.md",
+		"/Users/felix/github/stlab.github.io/libraries/future/future/recover.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/receiver/ready.md",
+		"/Users/felix/github/stlab.github.io/libraries/future/when_all.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/channel.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/join.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/process/await.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/process/close.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/process/state.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/process/set_error.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/policy_process.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/receiver/operator_pipe.md",
+		"/Users/felix/github/stlab.github.io/libraries/future/future/then.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/sender/operator().md",
+		"/Users/felix/github/stlab.github.io/libraries/future/stlab_future.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/process/yield.md",
+		"/Users/felix/github/stlab.github.io/_layouts/method.html",
+		"/Users/felix/github/stlab.github.io/css/main.scss",
+		"/Users/felix/github/stlab.github.io/libraries/channel/zip.md",
+		"/Users/felix/github/stlab.github.io/libraries/channel/merge.md"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stlab_docker.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set_error",
+				"libraries/concurrency/channel/process/set_error.md"
+			],
+			[
+				"detach_",
+				"libraries/concurrency/future/future/detach_example.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 434.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

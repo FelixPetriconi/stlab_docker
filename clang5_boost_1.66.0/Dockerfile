@@ -8,10 +8,9 @@ RUN apt-get update && apt install -y
 
 RUN apt-get install apt-utils -y
 RUN apt-get install make -y
-RUN apt-get install gcc-5 -y
-RUN apt-get install g++-5 -y
-RUN ln -s /usr/bin/g++-5 /usr/bin/g++
-RUN ln -s /usr/bin/gcc-5 /usr/bin/gcc 
+RUN apt-get install clang-5.0 -y
+RUN ln -s /usr/bin/clang++-5.0 /usr/bin/clang++
+RUN ln -s /usr/bin/clang-5.0 /usr/bin/clang 
 RUN apt-get install curl -y
 RUN apt-get install bzip2 -y
 
@@ -22,7 +21,7 @@ RUN curl -SL https://dl.bintray.com/boostorg/release/1.66.0/source/boost_1_66_0.
 RUN tar jxf boost_1_66_0.tar.bz2
 
 RUN cd boost_1_66_0 \
-	&& ./bootstrap.sh \
+	&& ./bootstrap.sh  --with-toolset=clang \
 	&& ./b2 link=static threading=multi --layout=tagged --with-test
 
 RUN mkdir future_build
